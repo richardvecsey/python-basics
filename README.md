@@ -13,6 +13,8 @@ Files:
                   Get input from user via console or command line
 - [x] *for*       004-forloop.py<br>
                   Iterate over a sequence. Sequence can be range, list, tuple, dictionary, set or string
+- [x] *while*     005-whileloop.py<br>
+                  Looping as long as a condition is True
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
