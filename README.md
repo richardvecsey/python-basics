@@ -18,4 +18,4 @@ Files:
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
-                  A classic "Hello, World!" application in 7 different ways
+                  A classic "Hello, World!" application in 8 different ways
