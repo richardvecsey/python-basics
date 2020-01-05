@@ -3,6 +3,8 @@ This repository contains easy examples and tips for python coding.
 
 Files:
 **General**
+- *Comments*      000-comments.py<br>
+                  Present commenting methods
 - *Datatypes*     000-datatypes.py<br>
                   Demonstration of different data types in Python
 
