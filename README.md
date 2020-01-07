@@ -19,13 +19,14 @@ Files:<br>
                   Looping as long as a condition is True
 - [x] *enumerate* 006-enumerate.py<br>
                   Convert collections into an enumerate object
+- [x] *abs*       007-abs.py<br>
+                  Get the absolute value of a number
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
                   A classic "Hello, World!" application in 8 different ways
 
 **Future**
-- [ ] abs
 - [ ] copy
 - [ ] len
 - [ ] max
