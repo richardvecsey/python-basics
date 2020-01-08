@@ -21,6 +21,8 @@ Files:<br>
                   Convert collections into an enumerate object
 - [x] *abs*       007-abs.py<br>
                   Get the absolute value of a number
+- [x] *tqdm*      008-tqdm.py<br>
+                  Progress bar into the console with tqdm
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
