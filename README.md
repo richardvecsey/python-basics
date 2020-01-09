@@ -23,6 +23,8 @@ Files:<br>
                   Get the absolute value of a number
 - [x] *tqdm*      008-tqdm.py<br>
                   Progress bar into the console with tqdm
+- [x] *pickle*    009-pickle.py<br>
+                  Object serialization: save and load objects into a pickle file
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
