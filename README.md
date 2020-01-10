@@ -25,6 +25,8 @@ Files:<br>
                   Progress bar into the console with tqdm
 - [x] *pickle*    009-pickle.py<br>
                   Object serialization: save and load objects into a pickle file
+- [x] *round*     010-round.py<br>
+                  Round a number
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
