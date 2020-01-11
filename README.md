@@ -27,6 +27,8 @@ Files:<br>
                   Object serialization: save and load objects into a pickle file
 - [x] *round*     010-round.py<br>
                   Round a number
+- [x] *pop*       011-pop.py<br>                 
+                  Remove item from a list
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
