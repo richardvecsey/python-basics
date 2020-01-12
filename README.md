@@ -29,6 +29,8 @@ Files:<br>
                   Round a number
 - [x] *pop*       011-pop.py<br>
                   Remove item from a list
+- [x] *reverse*   012-reverse.py<br>
+                  Get a reverse of list
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
