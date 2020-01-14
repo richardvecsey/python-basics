@@ -33,6 +33,8 @@ Files:<br>
                   Get a reverse of list
 - [x] *min*       013-min.py
                   Get the lowest value from an iterable
+- [x] *max*       014-max.py
+                  Get the highest value from an iterable
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
@@ -41,6 +43,5 @@ Files:<br>
 **Future**
 - [ ] copy
 - [ ] len
-- [ ] max
 - [ ] sorted
 - [ ] sum
