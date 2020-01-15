@@ -31,10 +31,12 @@ Files:<br>
                   Remove item from a list
 - [x] *reverse*   012-reverse.py<br>
                   Get a reverse of list
-- [x] *min*       013-min.py
+- [x] *min*       013-min.py<br>
                   Get the lowest value from an iterable
-- [x] *max*       014-max.py
+- [x] *max*       014-max.py<br>
                   Get the highest value from an iterable
+- [x] *len*       015-len.py<br>
+                  Get the number of items in an object
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
@@ -42,6 +44,5 @@ Files:<br>
 
 **Future**
 - [ ] copy
-- [ ] len
 - [ ] sorted
 - [ ] sum
