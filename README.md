@@ -37,6 +37,8 @@ Files:<br>
                   Get the highest value from an iterable
 - [x] *len*       015-len.py<br>
                   Get the number of items in an object
+- [x] *sum*       016-sum.py<br>
+                  Return the sum of iterable and start value
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
@@ -45,4 +47,3 @@ Files:<br>
 **Future**
 - [ ] copy
 - [ ] sorted
-- [ ] sum
