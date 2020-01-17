@@ -39,6 +39,8 @@ Files:<br>
                   Get the number of items in an object
 - [x] *sum*       016-sum.py<br>
                   Return the sum of iterable and start value
+- [x] *sorted*    017-sorted.py<br>
+                  Get a sorted list of any iterable object
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
@@ -46,4 +48,3 @@ Files:<br>
 
 **Future**
 - [ ] copy
-- [ ] sorted
