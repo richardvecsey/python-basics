@@ -41,6 +41,8 @@ Files:<br>
                   Return the sum of iterable and start value
 - [x] *sorted*    017-sorted.py<br>
                   Get a sorted list of any iterable object
+- [x] *bool*      018-bool.py<br>
+                  Return the boolean value of an object
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
