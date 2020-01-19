@@ -43,6 +43,8 @@ Files:<br>
                   Get a sorted list of any iterable object
 - [x] *bool*      018-bool.py<br>
                   Return the boolean value of an object
+- [x] *bin*       019-bin.py<br>
+                  Return the binary version of any integer
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
