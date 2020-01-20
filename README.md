@@ -45,6 +45,8 @@ Files:<br>
                   Return the boolean value of an object
 - [x] *bin*       019-bin.py<br>
                   Return the binary version of any integer
+- [x] *pow*       020-pow.py<br>
+                  Get the value of number to the power of another number
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
