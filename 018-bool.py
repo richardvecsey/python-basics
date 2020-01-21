@@ -4,7 +4,7 @@ Return the boolean value of an object
 Input   (object)    any object
 
 Return  (boolean)   Always True, except:
-                    - obejct is None
+                    - object is None
                     - object is empty
                     - object is False
                     - object is 0
