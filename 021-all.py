@@ -14,7 +14,7 @@ print('Object: {}\nAll: {}'.format(cars, all_cars))
 
 # Empty list
 empty_list = []
-all_empty_list = bool(empty_list)
+all_empty_list = all(empty_list)
 print('\nObject: {}\nAll: {}'.format(empty_list, all_empty_list))
 
 # Tuple
