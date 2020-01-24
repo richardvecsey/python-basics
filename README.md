@@ -49,6 +49,8 @@ Files:<br>
                   Get the value of number to the power of another number
 - [x] *all*       021-all.py<br>
                   Return True if all elements in iterable are true
+- [x] *any*       022-any-py<br>
+                  Return True if any elements in iterable are true
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
