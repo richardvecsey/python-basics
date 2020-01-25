@@ -51,6 +51,8 @@ Files:<br>
                   Return True if all elements in iterable are true
 - [x] *any*       022-any-py<br>
                   Return True if any elements in iterable are true
+- [x] *next*      023-next.py<br>
+                  Return the next item in an iterator
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
