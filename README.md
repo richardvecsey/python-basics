@@ -53,6 +53,8 @@ Files:<br>
                   Return True if any elements in iterable are true
 - [x] *next*      023-next.py<br>
                   Return the next item in an iterator
+- [x] *hex*       024-hex.py<br>
+                  Return the hexadecimal version of any integer
 
 **Short programs**
 - Hello, World!   001-helloworld.py<br>
