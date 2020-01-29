@@ -39,7 +39,8 @@ Files:<br>
 
 **Short programs**
 <ul>
-  <li>Hello, World!:  A classic "Hello, World!" application in 8 different ways (001-helloworld.py)</li>
+  <li>Hello, World!:    A classic "Hello, World!" application in 8 different ways (001-helloworld.py)</li>
+  <li>Comparsion lists: Comparsion two lists and get back common elements (026-comparsionlists.py)</li>
 </ul>
 
 **Future**
