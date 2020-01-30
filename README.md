@@ -30,6 +30,7 @@ Files:<br>
   <li> pow:       Get the value of number to the power of another number (020-pow.py)</li>
   <li> reverse:   Get a reverse of list (012-reverse.py)</li>
   <li> round:     Round a number (010-round.py)</li>
+  <li> rstrip:    Remove any character(s) from the end of a string (027-rstrip.py)</li>
   <li> sorted:    Get a sorted list of any iterable object (017-sorted.py)</li>
   <li> split:     Split a string into a list by a specific separator (025-split.py)</li>
   <li> sum:       Return the sum of iterable and start value (016-sum.py)</li>
