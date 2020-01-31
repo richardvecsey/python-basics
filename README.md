@@ -21,6 +21,7 @@ Files:<br>
   <li> hex:       Return the hexadecimal version of any integer (024-hex.py)</li>
   <li> input:     Get input from user via console or command line (003-input.py)</li>
   <li> len:       Get the number of items in an object (015-len.py)</li>
+  <li> lstrip:    Remove any character(s) from the beginning of a string (028-lstrip.py)</li>
   <li> max:       Get the highest value from an iterable (014-max.py)</li>
   <li> min:       Get the lowest value from an iterable (013-min.py)</li>
   <li> next:      Return the next item in an iterator (023-next.py)</li>
