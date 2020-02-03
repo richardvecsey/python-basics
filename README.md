@@ -35,6 +35,7 @@ Files:<br>
   <li> rstrip:    Remove any character(s) from the end of a string (027-rstrip.py)</li>
   <li> sorted:    Get a sorted list of any iterable object (017-sorted.py)</li>
   <li> split:     Split a string into a list by a specific separator (025-split.py)</li>
+  <li> sqrt:      [math] Get the square root of a number (031-sqrt.py)</li>  
   <li> strip:     Remove any character(s) from the beginning and ending of a string (029-strip.py)</li>  
   <li> sum:       Return the sum of iterable and start value (016-sum.py)</li>
   <li> tqdm:      Progress bar into the console with tqdm (008-tqdm.py)</li>
