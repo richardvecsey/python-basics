@@ -19,6 +19,7 @@ Files:<br>
   <li> enumerate: Convert collections into an enumerate object (006-enumerate.py)</li></li>
   <li> fabs:      [math] Get the absolute value of a number (030-fabs.py)</li>
   <li> for:       Iterate over a sequence. Sequence can be range, list, tuple, dictionary, set or string (004-forloop.py)</li>
+  <li> harmonic_mean: [statistics] Get the harmonic mean of numbers (033-harmonic_mean.py)</li>
   <li> hex:       Return the hexadecimal version of any integer (024-hex.py)</li>
   <li> input:     Get input from user via console or command line (003-input.py)</li>
   <li> len:       Get the number of items in an object (015-len.py)</li>
