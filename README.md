@@ -18,6 +18,7 @@ Files:<br>
   <li> bool:      Return the boolean value of an object (018-bool.py)</li>
   <li> enumerate: Convert collections into an enumerate object (006-enumerate.py)</li></li>
   <li> fabs:      [math] Get the absolute value of a number (030-fabs.py)</li>
+  <li> fmean:     [statistics][python=3.8] Get the arithmetic mean of numbers (035-fmean.py)</li>  
   <li> for:       Iterate over a sequence. Sequence can be range, list, tuple, dictionary, set or string (004-forloop.py)</li>
   <li> harmonic_mean: [statistics] Get the harmonic mean of numbers (033-harmonic_mean.py)</li>
   <li> hex:       Return the hexadecimal version of any integer (024-hex.py)</li>
