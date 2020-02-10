@@ -29,6 +29,7 @@ Files:<br>
   <li> max:       Get the highest value from an iterable (014-max.py)</li>
   <li> mean:      [statistics] Get the arithmetic mean of numbers (032-mean.py)</li>
   <li> median:    [statistics] Calculate median of numbers (034-median.py)</li>
+  <li> median_low:  [statistics] Calculate median of numbers (037-median_low.py)</li>  
   <li> min:       Get the lowest value from an iterable (013-min.py)</li>
   <li> next:      Return the next item in an iterator (023-next.py)</li>
   <li> pickle:    Object serialization: save and load objects into a pickle file (009-pickle.py)</li>
