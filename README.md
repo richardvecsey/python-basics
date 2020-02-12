@@ -45,6 +45,7 @@ Files:<br>
   <li> sqrt:      [math] Get the square root of a number (031-sqrt.py)</li>  
   <li> strip:     Remove any character(s) from the beginning and ending of a string (029-strip.py)</li>  
   <li> sum:       Return the sum of iterable and start value (016-sum.py)</li>
+  <li> time:      Return current timestamp in seconds (039-time.py)</li>    
   <li> tqdm:      Progress bar into the console with tqdm (008-tqdm.py)</li>
   <li> while:     Looping as long as a condition is True (005-whileloop.py)</li>
 </ul>
