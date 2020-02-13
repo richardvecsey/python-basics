@@ -40,4 +40,4 @@ del CarsClass
 try:
     print('Cars: {}'.format(CarsClass))
 except:
-    print('Class named CarsClass is deleted.\')
+    print('Class named CarsClass is deleted.')
