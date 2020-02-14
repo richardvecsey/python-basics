@@ -17,7 +17,7 @@ Files:<br>
   <li> bin:       Return the binary version of any integer (019-bin.py)</li>
   <li> bool:      Return the boolean value of an object (018-bool.py)</li>
   <li> del:       Delete variable or user-defined object (040-del.py)</li>
-  <li> enumerate: Convert collections into an enumerate object (006-enumerate.py)</li><
+  <li> enumerate: Convert collections into an enumerate object (006-enumerate.py)</li>
   <li> fabs:      [math] Get the absolute value of a number (030-fabs.py)</li>
   <li> fmean:     [statistics][python=3.8] Get the arithmetic mean of numbers (035-fmean.py)</li>  
   <li> for:       Iterate over a sequence. Sequence can be range, list, tuple, dictionary, set or string (004-forloop.py)</li>
@@ -35,6 +35,7 @@ Files:<br>
   <li> min:       Get the lowest value from an iterable (013-min.py)</li>
   <li> next:      Return the next item in an iterator (023-next.py)</li>
   <li> pickle:    Object serialization: save and load objects into a pickle file (009-pickle.py)</li>
+  <li> platform:  [platform] Get platform data (041-platform.py)</li>
   <li> print:     Print something onto the screen. The screen does mean console, terminal or command line (002-print.py)</li>
   <li> pop:       Remove item from a list (011-pop.py)</li>
   <li> pow:       Get the value of number to the power of another number (020-pow.py)</li>
