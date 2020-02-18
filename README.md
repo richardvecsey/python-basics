@@ -52,6 +52,7 @@ Files:<br>
   <li> time:      Return current timestamp in seconds (039-time.py)</li>
   <li> tqdm:      Progress bar into the console with tqdm (008-tqdm.py)</li>
   <li> try:       Test part of a code (043-try.py)</li>
+  <li> upper:     Return uppercase version of a string (045-upper.py)
   <li> while:     Looping as long as a condition is True (005-whileloop.py)</li>
 </ul>
 
