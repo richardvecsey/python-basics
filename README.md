@@ -4,8 +4,9 @@ This repository contains easy examples and tips for python coding.
 Files:<br>
 **General**
 <ul>
-  <li> Comments:  Present commenting methods (000-comments.py)</li>
-  <li> Datatypes: Demonstration of different data types in Python (000-datatypes.py)</li>
+  <li> Comments:    Present commenting methods (000-comments.py)</li>
+  <li> Datatypes:   Demonstration of different data types in Python (000-datatypes.py)</li>
+  <li> Inheritence: A class (child class or derived class) inherits properties, methods and functions from another class (parent class or base class). (000-inheritence.py)</li>
 </ul>
 
 **Functions**
