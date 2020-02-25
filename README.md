@@ -18,6 +18,7 @@ Files:<br>
   <li> bin:       Return the binary version of any integer (019-bin.py)</li>
   <li> bool:      Return the boolean value of an object (018-bool.py)</li>
   <li> capitalize:    Return capitalized version of a string (047-capitalize.py)</li>
+  <li> count:     Counting elements in a collection with a specific value (049-count.py)</li>
   <li> del:       Delete variable or user-defined object (040-del.py)</li>
   <li> enumerate: Convert collections into an enumerate object (006-enumerate.py)</li>
   <li> fabs:      [math] Get the absolute value of a number (030-fabs.py)</li>
