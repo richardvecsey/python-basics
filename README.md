@@ -70,6 +70,7 @@ Files:<br>
   <li>Hello, World!:    A classic "Hello, World!" application in 8 different ways (001-helloworld.py)</li>
   <li>Comparsion lists: Comparsion two lists and get back common elements (026-comparsionlists.py)</li>
   <li>Try import:       Show example how to handle missing import (052-try_import.py)</li>
+  <li>Sum of first 2^n: Sum of the first n powers of 2 fast (054-sum_first_n_2n_fast.py)</li>
 </ul>
 
 **Future**
