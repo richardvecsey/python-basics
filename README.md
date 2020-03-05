@@ -41,6 +41,7 @@ Files:<br>
   <li> median_low:   [statistics] Calculate median of numbers (037-median_low.py)</li>
   <li> min:       Get the lowest value from an iterable (013-min.py)</li>
   <li> next:      Return the next item in an iterator (023-next.py)</li>
+  <li> oct:       Return the octal value of any integer (055-oct.py)</li>
   <li> perm:      [math][python=3.8] Number of possibilities to choose k items from n items without repetition with order (048-perm.py)</li>
   <li> pickle:    Object serialization: save and load objects into a pickle file (009-pickle.py)</li>
   <li> platform:  [platform] Get platform data (041-platform.py)</li>
