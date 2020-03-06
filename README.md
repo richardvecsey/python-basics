@@ -51,6 +51,7 @@ Files:<br>
   <li> reverse:   Get a reverse of list (012-reverse.py)</li>
   <li> round:     Round a number (010-round.py)</li>
   <li> rstrip:    Remove any character(s) from the end of a string (027-rstrip.py)</li>
+  <li> slice:     Return a slice object (056-slice.py)</li>
   <li> sorted:    Get a sorted list of any iterable object (017-sorted.py)</li>
   <li> split:     Split a string into a list by a specific separator (025-split.py)</li>
   <li> sqrt:      [math] Get the square root of a number (031-sqrt.py)</li>  
