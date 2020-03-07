@@ -64,6 +64,7 @@ Files:<br>
   <li> try:       Test part of a code (043-try.py)</li>
   <li> type:      Return type of a specified object (057-type.py)</li>
   <li> upper:     Return uppercase version of a string (045-upper.py)</li>
+  <li> vars:      Return the __dic__ attribute of an object (058-vars.py)</li>
   <li> while:     Looping as long as a condition is True (005-whileloop.py)</li>
 </ul>
 
