@@ -57,6 +57,7 @@ Files:<br>
   <li> sqrt:      [math] Get the square root of a number (031-sqrt.py)</li>  
   <li> strip:     Remove any character(s) from the beginning and ending of a string (029-strip.py)</li>  
   <li> sum:       Return the sum of iterable and start value (016-sum.py)</li>
+  <li> super:     Inherit all methods and properties from another class (059-super.py)</li>
   <li> swapcase:  Swap cases in a string (046-swapcase.py)</li>
   <li> sys_platform: [sys] Check operation system (042-sys_platform.py)</li>
   <li> time:      Return current timestamp in seconds (039-time.py)</li>
