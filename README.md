@@ -72,6 +72,7 @@ Files:<br>
 **Short programs**
 <ul>
   <li>2^n in O(1)       Calculate 2^n in O(1) (053-2n_in_O1.py)</li>
+  <li>break_continue:   How to speed up for cycle with break and continue (060-break_continue.py)</li>
   <li>Hello, World!:    A classic "Hello, World!" application in 8 different ways (001-helloworld.py)</li>
   <li>Comparsion lists: Comparsion two lists and get back common elements (026-comparsionlists.py)</li>
   <li>Try import:       Show example how to handle missing import (052-try_import.py)</li>
