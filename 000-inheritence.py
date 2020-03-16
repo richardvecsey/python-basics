@@ -3,6 +3,7 @@ Present inheritence
 -------------------
 A class (child class or derived class) inherits properties, methods and
 functions from another class (parent class or base class).
+Update: Example of multiple inheritence
 """
 
 class Person:
@@ -14,6 +15,8 @@ class Person:
     def printpersondata(self):
         print('Firstname: {}\nLastname: {}\nAge: {}\n'
               .format(self.firstname, self.lastname, self.age))
+        
+        
 
 # Create a Person class object and print the data of person.
 person_1 = Person('Alice', 'Smith', '36')
@@ -60,3 +63,27 @@ class Worker(Person):
 person_4 = Worker('Charlie', 'Matthews', '37', 'Office')
 person_4.printpersondata()
 person_4.printpersondata_2()
+
+
+# Multiple inheritence
+# Define a new parent class as second parent
+class Workplace:
+    def __init__(self, location, CEO_name):
+        self.location = location
+        self.CEO_name = CEO_name
+
+# Define a new child class with 2 parents
+class Position(Person, Workplace):
+    def __init__(self, firstname, lastname, age, location, CEO_name):
+        # Inherits from class Person
+        Person.__init__(self, firstname, lastname, age)
+        # Inherits from class Workplace
+        Workplace.__init__(self, location, CEO_name)
+
+    # New function
+    def printpersondata3(self):
+        print('Firstname: {}\nLastname: {}\nAge: {}\nLocation of workplace: {}\nName of CEO: {}\n'
+              .format(self.firstname, self.lastname, self.age, self.location, self.CEO_name))        
+
+newest_position = Position('Amanda', 'Smith', '29', 'Washington DC', 'Kevin Faraday')
+newest_position.printpersondata3()
